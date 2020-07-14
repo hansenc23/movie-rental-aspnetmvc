@@ -113,3 +113,7 @@ G:\ASP.NET_Mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.r
 G:\ASP.NET_Mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
 G:\ASP.NET_Mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
 G:\ASP.NET_Mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.SetBirthdateToACustomer.resources
+G:\ASP.NET_Mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
+G:\ASP.NET_Mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenreToMovieAndAdditionalFields.resources
+G:\ASP.NET_Mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenre.resources
+G:\ASP.NET_Mosh\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMovie.resources
